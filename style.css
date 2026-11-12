@@ -1,3 +1,13 @@
 body{
     background-color: rgb(227, 227, 234);
 }
+
+.cabeçalho{
+margin-bottom: 0px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+border: 2px solid green;
+background-size: cover;
+background-position: 50% 75%;
+}
