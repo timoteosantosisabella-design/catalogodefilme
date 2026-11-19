@@ -11,3 +11,16 @@ border: 2px solid green;
 background-size: cover;
 background-position: 50% 75%;
 }
+
+
+.cabeçalho-título {
+color:black;
+font-size: 100px;
+font-family: "Irish grover";
+background-color: rgba(246, 229, 0.8);
+border: 2px solid rgb(20, 55, 20);
+padding: 20px;
+padding-top: 10px;
+border-radius: 5px;
+
+}
