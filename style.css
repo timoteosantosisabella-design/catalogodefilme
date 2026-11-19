@@ -24,3 +24,12 @@ padding-top: 10px;
 border-radius: 5px;
 
 }
+
+.imagem-logo {
+height: 48px;
+width: auto;
+max-width: 100%;
+display: block;
+object-fit: contain;
+
+}
